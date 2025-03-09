@@ -1,4 +1,4 @@
 # rp-demo
 This is my first git repository
 <br>
-Author-Radha Paswan
+Author-Radha (Apne College)
